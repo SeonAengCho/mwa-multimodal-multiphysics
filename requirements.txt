@@ -1,0 +1,8 @@
+# Python 3.10
+# Install the CUDA build of torch that matches your driver first, e.g.
+#   pip install torch==2.0.1 --index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1
+numpy==1.26.4
+scipy==1.12.0
+matplotlib==3.7.1
+tqdm==4.65.0

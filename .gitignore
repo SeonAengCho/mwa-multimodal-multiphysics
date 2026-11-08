@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Data (not included in the repository)
+Dataset/
+Datageneration/
+*.npy
+*.npz
+*.bin
+*.mat
+
+# Model weights / samples (not included in the repository)
+weight/
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+Results/
+train_graph/
+
+# Personal notes
+_notes/
+
+# Documents
+*.pptx
+*.docx
+*.pdf
